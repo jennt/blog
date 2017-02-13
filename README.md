@@ -15,12 +15,6 @@ end
 
   ```
 
-## Motivation
-To practice making Rails apps.
-
-
-<!-- ```ruby
-``` -->
 
 ## Authors
 * Jenn Tustin
